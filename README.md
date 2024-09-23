@@ -63,10 +63,10 @@ To make the circuit connection for sending IR signals, follow these circuit diag
 
 To use PanasonicIR, follow these steps:
 
-1. Head over to this repository and download their latest release: **`https://github.com/crankyoldgit/IRremoteESP8266.git`**.
+1. Head over to this repository and download their latest release: **`https://github.com/esmanish/ACPS_AC_Control`**.
 2. Open Arduino IDE.
 3. Go to Sketch > Include Library > Add .ZIP Library and select the downloaded lastest release ZIP file.
-4. Clone this repository and open it in your Arduino IDE: **`https://github.com/Ablazesphere/PanasonicIR.git`**
+4. Clone this repository and open it in your Arduino IDE: **`https://github.com/esmanish/ACPS_AC_Control`**
 5. Open the **`recieve_IR.ino`** file to check if the signals are being recieved by the SM0038 sensor.
 6. Open the **`AC_Control.ino`** file to transmit the signals to the Panasonic AC.
 
